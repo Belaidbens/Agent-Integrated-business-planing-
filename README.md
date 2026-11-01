@@ -48,12 +48,12 @@ Before running the application, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/wizara-agent.git
+   git clone https://github.com/yourusername/Agent-Integrated-business-planing.git
    ```
 2. **Navigate to the project directory**:
 
     ```bash
-    cd wizara-agent
+    cd agentIA
     ```
 
 
